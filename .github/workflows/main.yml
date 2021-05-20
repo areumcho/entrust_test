@@ -30,7 +30,7 @@ jobs:
           ENTRUST_API_CERTIFICATE: ${{ secrets.ENTRUST_API_CERTIFICATE }}
           ENTRUST_API_PRIVATE_KEY: ${{ secrets.ENTRUST_API_PRIVATE_KEY }}
           ENTRUST_API_USERNAME: ${{ secrets.ENTRUST_API_USERNAME }}
-          ENTRUST_API_PASSEWORD: ${{ secrets.ENTRUST_API_PASSEWORD }}
+          ENTRUST_API_PASSWORD: ${{ secrets.ENTRUST_API_PASSEWORD }}
 
           # Uncomment the setting below to renew early, 6 months in this example.
           # DURATION_BEFORE_EXPIRY: 4380h
