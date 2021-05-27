@@ -33,7 +33,7 @@ jobs:
           #certificate private key
           
           ENTRUST_API_USERNAME: ${{ secrets.ENTRUST_API_USERNAME }}
-          ENTRUST_API_PASSWORD: ${{ secrets.ENTRUST_API_PASSEWORD }}
+          ENTRUST_API_PASSWORD: ${{ secrets.ENTRUST_API_PASSWORD }}
           # Entrust API key
 
           # Uncomment the setting below to renew early, 6 months in this example.
