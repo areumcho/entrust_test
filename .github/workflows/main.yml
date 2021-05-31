@@ -38,3 +38,4 @@ jobs:
 
           # Uncomment the setting below to renew early, 6 months in this example.
           DURATION_BEFORE_EXPIRY: 90000h
+          #DURATION_BEFORE_EXPIRY: 4380h
